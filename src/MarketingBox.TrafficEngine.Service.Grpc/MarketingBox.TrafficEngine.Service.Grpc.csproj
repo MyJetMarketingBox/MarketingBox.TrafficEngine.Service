@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>MarketingBox.TrafficEngine.Service.Grpc</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MarketingBox.Sdk.Common" Version="1.0.10" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarketingBox.TrafficEngine.Service.Domain.Models\MarketingBox.TrafficEngine.Service.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

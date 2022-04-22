@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>MarketingBox.TrafficEngine.Service.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
